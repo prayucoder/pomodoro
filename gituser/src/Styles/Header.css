@@ -1,0 +1,30 @@
+
+body{
+    background-color: gray;
+}
+nav{
+    background-color: rgb(62, 59, 59);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.465);
+    padding: 3rem;
+}
+
+nav > label{
+    font: 600 1.5rem cursive;
+    text-decoration: none;
+    margin: 15px;
+    color:white;
+    font-weight: 800;
+}
+
+nav > button {
+    
+    left: 1500px;
+}
+
+.signUp1{
+    left: 1480px;
+}
+
+.size{
+    font-size: 50px;
+}

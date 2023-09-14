@@ -1,0 +1,28 @@
+
+
+nav{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.465);
+    padding: 3rem;
+    width: 100%;
+}
+
+nav > a{
+    font: 600 1.5rem cursive;
+    text-decoration: none;
+    margin: 15px;
+    color:purple;
+}
+
+nav > button {
+    
+    left: 1000px;
+}
+
+.signUp1{
+    left: 980px;
+}
+
+.size{
+    font-size: 50px;
+}
